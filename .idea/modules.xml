@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-javaee-util/01-javaee-util.iml" filepath="$PROJECT_DIR$/01-javaee-util/01-javaee-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-javaee-jdbc/02-javaee-jdbc.iml" filepath="$PROJECT_DIR$/02-javaee-jdbc/02-javaee-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-javaee-jdbc-refactor/03-javaee-jdbc-refactor.iml" filepath="$PROJECT_DIR$/03-javaee-jdbc-refactor/03-javaee-jdbc-refactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-javaee-web/04-javaee-web.iml" filepath="$PROJECT_DIR$/04-javaee-web/04-javaee-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isil-dae1-2020-1.iml" filepath="$PROJECT_DIR$/isil-dae1-2020-1.iml" />
+    </modules>
+  </component>
+</project>
